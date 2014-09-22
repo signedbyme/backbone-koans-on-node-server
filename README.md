@@ -1,5 +1,7 @@
 # Backbone Koans
 
+Forked from larrymyers/backbone-koans (https://github.com/larrymyers/backbone-koans).
+
 A set of jasmine powered koans for learning [Backbone.js](http://http://documentcloud.github.com/backbone).
 
 The koans verify behavior of a Todo list app, a modified version of the original Todos app
